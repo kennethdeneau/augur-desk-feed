@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Augur Desk</title>
+    <link>https://kennethdeneau.github.io/augur-desk-feed/</link>
+    <language>en-us</language>
+    <copyright>Unlisted private feed</copyright>
+    <description>Private AM/PM prediction-market briefs. Unlisted. Do not share the URL.</description>
+    <itunes:author>Augur Desk</itunes:author>
+    <itunes:summary>Private AM/PM prediction-market briefs. Unlisted. Do not share the URL.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>The Augur</itunes:name>
+      <itunes:email>ken.deneau@propher.co</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+    <atom:link href="https://kennethdeneau.github.io/augur-desk-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Voice check — helix</title>
+      <description>TTS voice check. Helix. Not a market brief.</description>
+      <pubDate>Fri, 28 Aug 2026 16:57:00 GMT</pubDate>
+      <guid isPermaLink="false">augur-desk-2026-08-28-voice-check-helix</guid>
+      <enclosure url="https://kennethdeneau.github.io/augur-desk-feed/episodes/2026-08-28-voice-check-helix.mp3" length="135168" type="audio/mpeg"/>
+      <itunes:duration>00:00:08</itunes:duration>
+    </item>
+  </channel>
+</rss>
