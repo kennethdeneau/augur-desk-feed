@@ -16,6 +16,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/augur-desk-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Friday sample — Aug 28</title>
+      <description>Sample desk brief covering Thu 8pm ET through Fri ~2:35pm ET. Intel, book, new LIPs. Helix. Not a trade.</description>
+      <pubDate>Fri, 28 Aug 2026 18:40:00 GMT</pubDate>
+      <guid isPermaLink="false">augur-desk-2026-08-28-sample</guid>
+      <enclosure url="https://kennethdeneau.github.io/augur-desk-feed/episodes/2026-08-28-sample.mp3" length="8082048" type="audio/mpeg"/>
+      <itunes:duration>00:08:25</itunes:duration>
+    </item>
+    <item>
       <title>Voice check — helix</title>
       <description>TTS voice check. Helix. Not a market brief.</description>
       <pubDate>Fri, 28 Aug 2026 16:57:00 GMT</pubDate>
