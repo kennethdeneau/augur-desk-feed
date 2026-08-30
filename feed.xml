@@ -16,6 +16,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/augur-desk-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sunday AM — Aug 30</title>
+      <description>Weekend morning desk brief. Intel, book, live LIPs since Saturday AM. Helix. Not a trade.</description>
+      <pubDate>Sun, 30 Aug 2026 12:29:07 GMT</pubDate>
+      <guid isPermaLink="false">augur-desk-2026-08-30-sun-am</guid>
+      <enclosure url="https://kennethdeneau.github.io/augur-desk-feed/episodes/2026-08-30-sun-am.mp3" length="8300928" type="audio/mpeg"/>
+      <itunes:duration>00:08:39</itunes:duration>
+    </item>
+    <item>
       <title>Saturday AM — Aug 29</title>
       <description>Weekend morning desk brief. Intel, book, live LIPs since Friday 5pm. Helix. Not a trade.</description>
       <pubDate>Sat, 29 Aug 2026 12:41:45 GMT</pubDate>
