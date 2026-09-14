@@ -16,6 +16,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/augur-desk-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Sunday catch-up — Sep 14</title>
+      <description>Weekend Sunday catch-up desk brief (ET). Intel, book, live LIPs since Sunday AM ET. Helix. Not a trade.</description>
+      <pubDate>Mon, 14 Sep 2026 08:57:19 GMT</pubDate>
+      <guid isPermaLink="false">augur-desk-2026-09-14-sun-catchup</guid>
+      <enclosure url="https://kennethdeneau.github.io/augur-desk-feed/episodes/2026-09-14-sun-catchup.mp3" length="8328192" type="audio/mpeg"/>
+      <itunes:duration>00:08:41</itunes:duration>
+    </item>
+    <item>
       <title>Sunday AM — Sep 13</title>
       <description>Weekend morning desk brief (ET). Intel, book, live LIPs since early Sunday. Helix. Not a trade.</description>
       <pubDate>Sun, 13 Sep 2026 12:14:32 GMT</pubDate>
