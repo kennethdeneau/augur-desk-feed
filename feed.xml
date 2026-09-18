@@ -16,6 +16,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/augur-desk-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Friday PM — Sep 18</title>
+      <description>Weekday evening desk brief. Intel, book, live LIPs since Friday AM ~01:20 ET. Helix. Not a trade.</description>
+      <pubDate>Fri, 18 Sep 2026 15:34:01 GMT</pubDate>
+      <guid isPermaLink="false">augur-desk-2026-09-18-pm</guid>
+      <enclosure url="https://kennethdeneau.github.io/augur-desk-feed/episodes/2026-09-18-pm.mp3" length="7478784" type="audio/mpeg"/>
+      <itunes:duration>00:07:47</itunes:duration>
+    </item>
+    <item>
       <title>Friday AM — Sep 18</title>
       <description>Weekday evening desk brief. Intel, book, live LIPs since Thursday AM ~01:10 ET. Helix. Not a trade.</description>
       <pubDate>Fri, 18 Sep 2026 05:18:12 GMT</pubDate>
