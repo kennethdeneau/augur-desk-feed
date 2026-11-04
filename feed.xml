@@ -16,6 +16,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/augur-desk-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Wednesday PM — Nov 4</title>
+      <description>Weekday morning desk brief covering since Tuesday PM (election night). Intel, book, live LIPs, catalysts. Helix. No trades placed.</description>
+      <pubDate>Wed, 04 Nov 2026 22:27:04 GMT</pubDate>
+      <guid isPermaLink="false">augur-desk-2026-11-04-pm</guid>
+      <enclosure url="https://kennethdeneau.github.io/augur-desk-feed/episodes/2026-11-04-pm.mp3" length="8418048" type="audio/mpeg"/>
+      <itunes:duration>00:08:46</itunes:duration>
+    </item>
+    <item>
       <title>Wednesday AM — Nov 4</title>
       <description>Weekday morning desk brief covering since Tuesday PM (election night). Intel, book, live LIPs, catalysts. Helix. No trades placed.</description>
       <pubDate>Wed, 04 Nov 2026 10:23:32 GMT</pubDate>
