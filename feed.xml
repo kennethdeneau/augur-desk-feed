@@ -16,6 +16,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/augur-desk-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>2026 Trading Year in Review — Nov 5</title>
+      <description>Bonus: review of 2026 trading through November 5 across Kalshi, Polymarket International, Polymarket US, and the ProphetX / Crypto.com arb book. What worked, what didn't, sizing and timing, insights and recommendations. Voice: Ara. No trades placed.</description>
+      <pubDate>Fri, 06 Nov 2026 03:41:25 GMT</pubDate>
+      <guid isPermaLink="false">augur-desk-2026-11-05-bonus-year-review</guid>
+      <enclosure url="https://kennethdeneau.github.io/augur-desk-feed/episodes/2026-11-05-bonus-year-review.mp3" length="9222092" type="audio/mpeg"/>
+      <itunes:duration>00:12:48</itunes:duration>
+    </item>
+    <item>
       <title>Bernard Case Study — Nov 5</title>
       <description>Bonus: twelve-month case study of the trader Bernard on Polymarket and Kalshi. Sizing, entry prices, market mix, exits, wins and losses, lessons, limits. Voice: Eve. No trades placed.</description>
       <pubDate>Fri, 06 Nov 2026 01:04:30 GMT</pubDate>
