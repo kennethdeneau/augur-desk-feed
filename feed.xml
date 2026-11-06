@@ -16,6 +16,14 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/augur-desk-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Bernard Case Study — Nov 5</title>
+      <description>Bonus: twelve-month case study of the trader Bernard on Polymarket and Kalshi. Sizing, entry prices, market mix, exits, wins and losses, lessons, limits. Voice: Eve. No trades placed.</description>
+      <pubDate>Fri, 06 Nov 2026 01:04:30 GMT</pubDate>
+      <guid isPermaLink="false">augur-desk-2026-11-05-bonus-bernard-case-study</guid>
+      <enclosure url="https://kennethdeneau.github.io/augur-desk-feed/episodes/2026-11-05-bonus-bernard-case-study.mp3" length="6717260" type="audio/mpeg"/>
+      <itunes:duration>00:18:40</itunes:duration>
+    </item>
+    <item>
       <title>Thursday PM — Nov 5</title>
       <description>Weekday afternoon desk brief covering since Thursday AM. Intel, book, live LIPs, catalysts. Helix. No trades placed. Post-6pm edition with Punchbowl PM.</description>
       <pubDate>Thu, 05 Nov 2026 23:25:53 GMT</pubDate>
